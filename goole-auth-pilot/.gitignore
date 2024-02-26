@@ -1,0 +1,25 @@
+# Ignore .env file
+.env
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore compiled files
+*.pyc
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore package-lock.json for Node.js projects
+package-lock.json
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
